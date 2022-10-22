@@ -15,3 +15,5 @@ git log
 git init
 git add . 
 git commit -m "
+git branch
+git switch
