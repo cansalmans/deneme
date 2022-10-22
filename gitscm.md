@@ -10,4 +10,8 @@ css/*
 (klasör içinden tek dosya gönder.)
 
 ---
-
+git status
+git log 
+git init
+git add . 
+git commit -m "
